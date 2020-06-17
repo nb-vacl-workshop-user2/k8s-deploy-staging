@@ -1,10 +1,4 @@
 {
-    "timeseriesId" : "com.dynatrace.builtin:servicemethod.responsetime",
-    "aggregation" : "avg",
-    "entityIds" : "SERVICE-6A63DD3755DBAF5F",
-    "upperSevere" : 800.0,
-    "upperWarning" : 600.0
-}{
 	"spec_version": "2.0",
 	"timeseries": [
         {
